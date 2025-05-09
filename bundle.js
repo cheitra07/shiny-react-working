@@ -1,0 +1,1 @@
+console.log('React bundle loaded.'); document.getElementById('root').innerHTML = '<h1>Hello from React!</h1>';
